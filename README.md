@@ -32,7 +32,7 @@ The dataset was sourced from Kaggle and used for learning and portfolio-building
 
 ## Files
 
-- `Winter_Olympic_Medals_Analysis.xlsx`: Excel workbook containing the analysis
+- `Winter Olympic Medals.xlsx`: Excel workbook containing the analysis
 
 ## What I Learned
 
