@@ -42,3 +42,9 @@ The dataset was sourced from Kaggle and used for learning and portfolio-building
 - How to build slicers for interactive filtering
 - How to document a data analysis project clearly
 
+## Dashboard Preview
+
+![Dashboard Preview](winter_olympic_dashboard_preview.png)
+
+- The full workbook includes additional analysis views for medal trends, gender participation, and sport popularity
+
